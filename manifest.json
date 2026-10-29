@@ -1,0 +1,14 @@
+{
+  "name": "Mes Tables — Carnet de restaurants",
+  "short_name": "Mes Tables",
+  "description": "Mes restaurants, mes notes, ma carte",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f7f2",
+  "theme_color": "#133e37",
+  "lang": "fr",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
